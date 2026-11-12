@@ -1,0 +1,39 @@
+.rr {
+    width: 80%;
+}
+
+#judul {
+    font-size: 32px;
+    font-family: arial;
+    font-weight: bold;
+    color:aqua;
+    text-align: center;
+}
+
+.nama {
+    font-size: 24px;
+    font-weight: bold;  
+    font-family: 'georgia'; 
+}
+
+.kelas {
+    font-size: 16px;
+    font-style: arial;
+    font-family: 'georgia';
+}
+
+.m {
+    font-style: italic;
+}
+
+.namsek {
+    font-size: 14px;
+    font-style: Normal;
+    font-family: 'georgia';
+}
+
+body {
+    background-image: url(ff.jpg);
+    background-repeat: no-repeat;
+   background-size: 100%;
+}
